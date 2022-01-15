@@ -1,4 +1,4 @@
-# PauseSettings
+# PauseSettings ![img](https://img.shields.io/github/downloads/LeeMoriya/PauseSettings/total?style=for-the-badge)
 ![PauseSettings](https://i.imgur.com/4VIyWoM.png)
 
 A simple Rain World mod adding volume control sliders to the pause menu.
