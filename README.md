@@ -5,7 +5,7 @@ A simple Rain World mod adding volume control sliders to the pause menu.
 
 ## Download
 
-### [Download the latest version here](https://github.com/LeeMoriya/PauseSettings/releases/tag/v1.0)
+### [Download the latest version here](https://github.com/LeeMoriya/PauseSettings/releases/tag/v1.1)
 
 This mod will be automatically updated if you use [AutoUpdate](https://beestuff.pythonanywhere.com/audb/api/mods/0/0/download/latest)
 
